@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojaswinimohanta21&label=Profile%20views&color=0e75b6&style=flat" alt="ojaswinimohanta21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojaswinimohanta21" alt="ojaswinimohanta21" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://www.vecteezy.com/free-vector/web">Web Vectors by Vecteezy">
+<!-- <img align="right" alt="coding" width="400" src="https://www.vecteezy.com/free-vector/web">Web Vectors by Vecteezy"> -->
 
 - 🌱 I’m currently learning **Angular**
 
